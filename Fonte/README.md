@@ -35,3 +35,5 @@ Projeto para a disciplina SSC0180-Eletrônica para Computação no Instituto de 
 
 ![](PCB.png)
 
+# Feito por
+Bernardo Azrak Nardelli - 11925194
