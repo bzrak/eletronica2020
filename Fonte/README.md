@@ -35,5 +35,8 @@ Projeto para a disciplina SSC0180-Eletrônica para Computação no Instituto de 
 
 ![](PCB.png)
 
+## Video Explicativo do Circuito:
+https://www.youtube.com/watch?v=7D-wKa_Jvzw
+
 # Feito por
 Bernardo Azrak Nardelli - 11925194
